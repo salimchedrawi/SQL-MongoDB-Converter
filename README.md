@@ -19,7 +19,6 @@ Matlab or Octave(Free)
 
 Octave Installation
 ===================== 
-Matlab or Octave(Free)
 
 Windows Instructions
 Download Octave: <a href="http://s3.amazonaws.com/mlclass-resources/software/Octave-3.2.4_i686-pc-mingw32_gcc-4.4.0_setup.exe">Octave-3.2.4_i686-pc-mingw32_gcc-4.4.0_setup.exe</a>
